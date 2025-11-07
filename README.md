@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 # Hi, I'm Ahmed 👋
 **Red Team Trainee | Junior Penetration Tester**
 
