@@ -1,33 +1,59 @@
 ![Banner](Banner.png)
 
-# Hi, I'm Ahmed 👋
-**Red Team Trainee | Junior Penetration Tester**
+# Ahmed Elganagy
+Red Team Trainee | Junior Penetration Tester
 
-I’m a cybersecurity professional in training focused on penetration testing, red teaming, and network/web security. Currently enrolled in the NTI Red Team program and building practical skills through hands-on labs and penetration testing projects.
+I am a cybersecurity practitioner focused on penetration testing, red teaming, and network and web security. I have developed a strong technical foundation through structured training programs such as the NTI Red Team Track, the Digital Egypt Pioneers Initiative (DEPI), the Information Technology Institute (ITI) cybersecurity program, and the Commercial International Bank (CIB) cybersecurity internship.
 
----
-
-## 🔧 Key Skills
-- Penetration testing · Vulnerability assessment · Red Team operations  
-- Networking · Linux administration · Python scripting  
-- Tools: Kali Linux, Nmap, Wireshark, Burp Suite
+My learning journey is driven by hands-on practice, continuous improvement, and building real offensive security skills. I am currently working on structured pentesting labs, network enumeration scripts, and web application vulnerability writeups to strengthen my technical capabilities and create practical, documented projects.
 
 ---
 
-## 🔭 Current
-- NTI — Red Team Trainee (Oct 2025 – Present)  
-- Working on: a web-app penetration testing project and network enumeration labs.
+## Technical Skills
+- Penetration Testing and Vulnerability Assessment  
+- Network Security and Linux Administration  
+- Red Team Operations (Fundamentals)  
+- Web Application Security  
+- Python Scripting and Automation  
+- Common Security Tools: Kali Linux, Burp Suite, Nmap, Wireshark  
 
 ---
 
-## 📁 Selected Projects
-- **pentest-lab** — Lab configurations, walkthroughs and practical writeups.  
-- **web-app-pentest-writeups** — Example web vulnerabilities, proof-of-concepts and remediation notes.  
-- **network-enum-scripts** — Useful Python/Bash scripts for scanning and enumeration.
+## Training and Experience
+- NTI – Red Team Trainee (2025 – Present)  
+- Digital Egypt Pioneers Initiative (DEPI) – Penetration Testing & Vulnerability Analysis  
+- ITI – Cybersecurity Trainee  
+- CIB – Cybersecurity Intern  
 
-*(Pinned repos appear below — check them for demos, sanitized reports, and code.)*
+These programs helped me build both technical and professional skills, including communication, teamwork, problem-solving, leadership, and project coordination.
 
 ---
 
-## 📫 Contact
-[LinkedIn](https://linkedin.com/in/ahmedelganagy/) · ahmedelganagy22@gmail.com
+## Projects
+Below are selected repositories highlighting my practical work:
+
+- **pentest-lab**  
+  Documented offensive security labs, including reconnaissance, enumeration, exploitation, and remediation notes.
+
+- **web-app-pentest-writeups**  
+  Structured writeups demonstrating common web vulnerabilities with step-by-step reproduction and mitigation.
+
+- **network-enum-scripts**  
+  Python and Bash scripts designed to automate initial network enumeration tasks.
+
+More repositories and practical demonstrations will be added as I continue progressing in my red team roadmap.
+
+---
+
+## Interests
+- Penetration Testing  
+- Red Teaming and Adversary Simulation  
+- Network and Web Security  
+- Scripting for Offensive Security  
+- Continuous Learning and Skill Development  
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/ahmedelganagy/  
+Email: ahmedelganagy22@gmail.com
