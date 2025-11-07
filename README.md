@@ -57,3 +57,6 @@ More repositories and practical demonstrations will be added as I continue progr
 ## Contact
 LinkedIn: https://www.linkedin.com/in/ahmedelganagy/  
 Email: ahmedelganagy22@gmail.com
+
+## CV
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](./CV.pdf)
