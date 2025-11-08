@@ -12,7 +12,7 @@ My learning journey is driven by hands-on practice, continuous improvement, and 
 ## Technical Skills
 - Penetration Testing and Vulnerability Assessment  
 - Network Security and Linux Administration  
-- Red Team Operations (Fundamentals)  
+- Red Team Operations  
 - Web Application Security  
 - Python Scripting and Automation  
 - Common Security Tools: Kali Linux, Burp Suite, Nmap, Wireshark  
