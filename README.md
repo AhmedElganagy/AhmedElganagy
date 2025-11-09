@@ -66,5 +66,5 @@ Email: ahmedelganagy22@gmail.com
 ---
 
 ## Portfolio
-Explore my projects and skills here: [![Check Portfolio]([https://img.shields.io/badge/Download-CV-blue](https://ahmed-elganagy-portfolio.netlify.app/))]
+Check out my hands-on cybersecurity projects and skills here: [Ahmed Elganagy Portfolio](https://ahmed-elganagy-portfolio.netlify.app/)
 
