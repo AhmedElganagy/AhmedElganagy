@@ -20,10 +20,10 @@ My learning journey is driven by hands-on practice, continuous improvement, and 
 ---
 
 ## Training and Experience
-- NTI – Red Team Trainee (2025 – Present)  
-- Digital Egypt Pioneers Initiative (DEPI) – Penetration Testing & Vulnerability Analysis  
+- NTI – Red Team Trainee
 - ITI – Cybersecurity Trainee  
-- CIB – Cybersecurity Intern  
+- CIB – Cybersecurity Intern
+- Digital Egypt Pioneers Initiative (DEPI) – Penetration Testing & Vulnerability Analysis  
 
 These programs helped me build both technical and professional skills, including communication, teamwork, problem-solving, leadership, and project coordination.
 
@@ -45,10 +45,12 @@ More repositories and practical demonstrations will be added as I continue progr
 
 ---
 
-## Interests
+## Skills
+- Information Technology
 - Penetration Testing  
 - Red Teaming and Adversary Simulation  
-- Network and Web Security  
+- Network and Web Security
+- Linux Administration
 - Scripting for Offensive Security  
 - Continuous Learning and Skill Development  
 
