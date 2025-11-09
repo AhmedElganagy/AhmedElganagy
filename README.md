@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# Ahmed Elganagy
+                                                                              # Ahmed Elganagy
 Red Team Trainee | Junior Penetration Tester
 
 I am a cybersecurity practitioner focused on penetration testing, red teaming, and network and web security. I have developed a strong technical foundation through structured training programs such as the NTI Red Team Track, the Digital Egypt Pioneers Initiative (DEPI), the Information Technology Institute (ITI) cybersecurity program, and the Commercial International Bank (CIB) cybersecurity internship.
