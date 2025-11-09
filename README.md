@@ -66,5 +66,4 @@ Email: ahmedelganagy22@gmail.com
 ---
 
 ## Portfolio
-Check out my hands-on cybersecurity projects and skills here: [Ahmed Elganagy Portfolio](https://ahmed-elganagy-portfolio.netlify.app/)
-
+[![My Portfolio](https://your-image-link.com/portfolio-banner.png)](https://ahmed-elganagy-portfolio.netlify.app/)
