@@ -62,3 +62,8 @@ Email: ahmedelganagy22@gmail.com
 
 ## CV
 [![Download CV](https://img.shields.io/badge/Download-CV-blue)](./CV.pdf)
+
+---
+
+## Portfolio
+Explore my projects and skills here: [Netlify Portfolio Link]
