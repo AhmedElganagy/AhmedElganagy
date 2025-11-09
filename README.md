@@ -61,7 +61,7 @@ Email: ahmedelganagy22@gmail.com
 ---
 
 ## CV
-[![Check CV](https://img.shields.io/badge/Download-CV-blue)](./CV.pdf)
+[![Check CV](https://img.shields.io/badge/Check-CV-blue?style=for-the-badge&logo=github)](./CV.pdf)
 
 ---
 
