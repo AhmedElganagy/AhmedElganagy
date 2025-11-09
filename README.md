@@ -66,4 +66,4 @@ Email: ahmedelganagy22@gmail.com
 ---
 
 ## Portfolio
-[![My Portfolio](https://your-image-link.com/portfolio-banner.png)](https://ahmed-elganagy-portfolio.netlify.app/)
+[![My Portfolio](![Banner](Banner.png))](https://ahmed-elganagy-portfolio.netlify.app/)
